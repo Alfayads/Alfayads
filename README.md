@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile! 🚀
 
 ![Banner](https://user-images.githubusercontent.com/000000/your-banner-link.gif)  
-(*Replace this with a custom animated banner or design one on platforms like [Canva](https://www.canva.com/) or [Figma](https://www.figma.com/).*)
+(*Replace this with a custom animated banner or design one on platforms like [Canva](https://www.canva.com/) or [Figma](https://www.figma.com/).*)  
 
 ---
 
@@ -70,61 +70,9 @@ Showcasing my skills in **web development**, **UI/UX design**, and **responsive 
 
 ## 🌟 Fun Extras!  
 
-### 🎨 Interactive UI Design Demo
+### 🎮 Snake Game on GitHub! 🐍  
 
-I love creating engaging animations and interactions! Check out my UI design in action below:  
-![UI Design Animation](https://user-images.githubusercontent.com/000000/your-ui-design.gif)  
-(*Use [Figma](https://www.figma.com/) to create and animate designs, or create custom GIFs with [Lottie](https://lottiefiles.com/).*)  
-
----
-
-## ✨ Let's Connect!  
-
-Reach out to me or follow me on these platforms:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/your-linkedin)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/your-username)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/your-twitter)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?logo=google-chrome&logoColor=white&style=flat)](https://your-portfolio-link.com)
-
----
-
-## 💬 Fun Quote
-
-> "Success is the sum of small efforts, repeated day in and day out."  
-*Keep coding, keep creating, and always strive for excellence! 💻*
-
----
-
-## 🔥 Animated GitHub Action Badge  
-
-You can also add **GitHub Actions** to show the status of your deployments and workflows:  
-
-[![Deploy](https://img.shields.io/badge/deploy-success-green)](https://github.com/your-username/your-project/actions)
-
----
-
-## 🎥 GitHub Action Animations  
-
-For those of you interested in deploying with GitHub Actions, you can use these CI/CD badges and animations:
-
-- [CircleCI](https://circleci.com/docs/2.0/badges/)  
-- [TravisCI](https://travis-ci.org/)  
-- [GitHub Actions](https://github.com/features/actions)  
-
----
-
-## ✨ Dynamic Typing Effect  
-
-Add some dynamic flair to your profile by implementing this typing effect:
+Let's have some fun! Play the Snake game below to see the magic in action. It's interactive, and you can compete against yourself to get the highest score! 🏆
 
 ```html
-<div id="typing"></div>
-<script src="https://cdn.jsdelivr.net/npm/typeit@7.0.4"></script>
-<script>
-  new Typeit("#typing", {
-    strings: ["Full-Stack Developer", "MERN Stack Enthusiast", "UI/UX Designer", "E-commerce Developer"],
-    speed: 100,
-    breakDelay: 1000,
-    loop: true
-  }).go();
-</script>
+<iframe src="https://giphy.com/embed/xUOxf7JlRb04ByfEkA" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/xUOxf7JlRb04ByfEkA">via GIPHY</a></p>
