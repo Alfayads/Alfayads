@@ -31,7 +31,6 @@
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[Rest of the previous content remains the same]
   
 <!-- Animated Banner - More modern and eye-catching -->
 [![MasterHead](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)](https://github.com/Alfayads)
@@ -108,7 +107,7 @@ const alfayad = {
 };
 ```
 
-[Previous header content remains the same until the skills section]
+
 
 <!-- Extended Tech Stack Section -->
 <h2 align="center">🛠️ Technology Stack</h2>
@@ -185,7 +184,6 @@ const alfayad = {
 
 </div>
 
-[Rest of the content remains the same]
 <!-- Enhanced Stats Section with New Design -->
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
