@@ -1,146 +1,72 @@
+<!-- Custom Banner with Multiple Animations -->
 <div align="center">
+  <!-- Top Wave Animation -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=&fontSize=0" alt="header"/>
   
-  <!-- Animated Banner -->
-  ![Animated Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20👋,%20I'm%20Alfayad&fontSize=90&animation=fadeIn)
+  <!-- Animated Name Badge -->
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Alfayad&height=150&fontSize=80&desc=Full%20Stack%20Developer&descAlignY=75&descAlign=60&animation=fadeIn" alt="header"/>
 
-  <!-- Typing SVG -->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%92;AI+Explorer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80)](https://git.io/typing-svg)
+  <!-- Dynamic Snake Animation -->
+  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
+
+  <!-- Animated Tech Stack Icons -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=A82DA8&center=true&vCenter=true&multiline=true&width=600&height=100&lines=React+%E2%9A%9B%EF%B8%8F+Node.js+%F0%9F%9A%80+MongoDB+%F0%9F%8D%83;Cybersecurity+%F0%9F%94%92+AI+Explorer+%F0%9F%A4%96" alt="Tech Stack"/>
+</div>
+
+[Rest of your existing README content here...]
+
+<!-- Enhanced Footer Section -->
+<div align="center">
+  <!-- Animated Stats Bar -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=1a1b27&color=a82da8&line=2ea043&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
   
-  <!-- Professional Quote -->
-  > 🎯 "Crafting digital experiences that make a difference"
+  <!-- Dynamic Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" alt="Quote"/>
+  
+  <!-- Profile Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&row=1&column=7&margin-w=15&no-frame=true" width="100%" alt="Trophy"/>
 
-  <!-- Profile Views Counter -->
-  ![Profile Views](https://komarev.com/ghpvc/?username=Alfayads&color=blueviolet&style=for-the-badge)
-  [![GitHub followers](https://img.shields.io/github/followers/Alfayads?style=for-the-badge&logo=github)](https://github.com/Alfayads?tab=followers)
+  <!-- Spotify Now Playing (if you want to show what you're listening to) -->
+  ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=yourusername&count=1&width=600)
+
+  <!-- 3D Contribution Calendar -->
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar"/>
+  
+  <!-- Bottom Wave with Gradient -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&animation=twinkling" width="100%" alt="Footer"/>
 </div>
 
-<!-- About Me Section with Custom Design -->
+<!-- Hidden but cool ASCII art -->
+<!--
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠔⠋⠉⠀⠀⠀⠀⠈⠙⠒⠤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢦⡀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠱⣄⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠎⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢣⡀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⡄⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡄⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢠⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢧⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢠⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡆⠀
+⠀⠀⠀⠀⠀⠀⢠⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢧⠀
+⠀⠀⠀⠀⠀⢠⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡆
+⠀⠀⠀⠀⢠⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢧
+⠀⠀⠀⢠⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸
+⠀⠀⣠⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸
+-->
+
+<!-- Start of Custom Metrics Section -->
 <div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=Alfayads&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WildCard"/>
+  <details>
+    <summary>📊 Detailed Metrics</summary>
+    <br>
+    
+    <!-- Isometric Calendar -->
+    <img src="https://metrics.lecoq.io/yourusername?template=classic&isocalendar=1&languages=1&introduction=1&stars=1&posts=1&achievements=1&notable=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars=false&stars.limit=4&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&introduction=false&introduction.title=true&config.timezone=Asia%2FKolkata" width="100%" alt="Detailed Metrics"/>
+    
+  </details>
 </div>
 
-```js
-const alfayad = {
-    /* 🧑‍💻 Professional Identity */
-    title: "Full Stack Developer & Security Enthusiast",
-    location: "Mullathward Thiruvampady po Alappuzha🌍",
-    workingOn: "Building secure & scalable web applications",
-    
-    /* 💡 Technical Expertise */
-    languages: {
-        frontend: ["HTML5", "CSS3", "JavaScript", "TypeScript"],
-        backend: ["Node.js", "Python"],
-        exploring: ["Rust", "Go"]
-    },
-    
-    /* 🛠️ Tech Arsenal */
-    frameworks: {
-        frontEnd: {
-            js: ["React.js", "Next.js", "Redux"],
-            css: ["Tailwind CSS", "Material-UI", "Styled Components"],
-            testing: ["Jest", "React Testing Library"]
-        },
-        backEnd: {
-            js: ["Express.js", "NestJS"],
-            python: ["Django", "FastAPI"],
-            api: ["REST", "GraphQL", "WebSockets"]
-        }
-    },
-    
-    /* 🗄️ Database Mastery */
-    databases: {
-        noSQL: ["MongoDB", "Firebase"],
-        sql: ["MySQL", "PostgreSQL"],
-        cache: ["Redis"]
-    },
-    
-    /* 🔧 DevOps & Tools */
-    devOps: ["Docker", "Kubernetes", "AWS", "CI/CD"],
-    tools: ["Git", "Postman", "VSCode", "Vim"],
-    
-    /* 🎯 Current Focus */
-    currentlyLearning: [
-        "Advanced System Architecture",
-        "Cloud Security",
-        "Machine Learning Integration"
-    ]
-};
-```
-
-<!-- Tech Stack Section with Advanced Styling -->
-<h2 align="center">🛠️ Technology Arsenal</h2>
-<p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-</p>
-
-<!-- GitHub Stats with Advanced Layout -->
-<h2 align="center">📊 GitHub Journey</h2>
+<!-- Visitor Counter with Animation -->
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Alfayads&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Alfayads&theme=tokyonight" />
-</div>
-
-<!-- Activity Graph -->
-<img src="https://activity-graph.herokuapp.com/graph?username=Alfayads&theme=react-dark" width="100%"/>
-
-<!-- Projects Showcase -->
-<h2 align="center">🚀 Featured Projects</h2>
-
-<div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Alfayads&repo=project1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/yourusername/project2">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Alfayads&repo=project2&theme=tokyonight" />
-  </a>
-</div>
-
-<!-- Skills Progress Bars -->
-<h2 align="center">💻 Skills & Expertise</h2>
-
-```text
-Frontend Development    ███████████████████░   95% 
-Backend Development    ████████████████████░   90%
-Database Management    ███████████████████░░   85%
-DevOps                 ██████████████████░░░   80%
-Cybersecurity          ███████████████░░░░░░   75%
-AI/ML                  ████████████░░░░░░░░░   60%
-```
-
-<!-- Achievements Section -->
-<h2 align="center">🏆 Achievements</h2>
-
-- 🌟 Successfully delivered 20+ web applications
-- 🔒 Implemented secure authentication systems for multiple clients
-- 🚀 Optimized application performance by 40%
-- 📊 Reduced database query times by 60%
-- 🤖 Integrated AI-powered features in web applications
-
-<!-- Connect Section with Fancy Styling -->
-<h2 align="center">🤝 Let's Connect</h2>
-<div align="center">
-  <a href="https://linkedin.com/in/Alfayads">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://dev.to/yourusername">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
-  </a>
-  <a href="mailto:alfayadshameer056@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%"/>
+  <img src="https://profile-counter.glitch.me/yourusername/count.svg" alt="Visitor Count"/>
 </div>
