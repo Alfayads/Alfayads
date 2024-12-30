@@ -75,20 +75,84 @@ const alfayad = {
 };
 ```
 
-<!-- Animated Skill Bars - More Dynamic -->
+[Previous header content remains the same until the skills section]
+
+<!-- Extended Tech Stack Section -->
+<h2 align="center">🛠️ Technology Stack</h2>
+
+<div align="center">
+
+<!-- Frontend Technologies -->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+<!-- Frontend Frameworks/Libraries -->
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
+<!-- State Management -->
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+
+<!-- CSS Frameworks -->
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+<!-- Backend Technologies -->
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+<!-- Databases -->
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+<!-- DevOps & Cloud -->
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+<!-- Testing -->
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<!-- Version Control & Tools -->
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+</div>
+
+<!-- Skill Proficiency Section -->
 <h2 align="center">💫 Skill Proficiency</h2>
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-95%25-yellow?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-90%25-blue?style=for-the-badge&logo=python)
-![React](https://img.shields.io/badge/React-92%25-blue?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-88%25-green?style=for-the-badge&logo=node.js)
-![AWS](https://img.shields.io/badge/AWS-85%25-orange?style=for-the-badge&logo=amazon-aws)
-![Security](https://img.shields.io/badge/Security-82%25-red?style=for-the-badge&logo=hackaday)
+![MERN Stack](https://img.shields.io/badge/MERN_Stack-95%25-green?style=for-the-badge&logo=mongodb)
+![MEAN Stack](https://img.shields.io/badge/MEAN_Stack-90%25-red?style=for-the-badge&logo=angular)
+![DevOps](https://img.shields.io/badge/DevOps-85%25-blue?style=for-the-badge&logo=azure-devops)
+![Cloud Architecture](https://img.shields.io/badge/Cloud_Architecture-88%25-orange?style=for-the-badge&logo=amazon-aws)
+![Frontend Development](https://img.shields.io/badge/Frontend_Development-92%25-yellow?style=for-the-badge&logo=html5)
+![Backend Development](https://img.shields.io/badge/Backend_Development-90%25-purple?style=for-the-badge&logo=node.js)
+![Database Management](https://img.shields.io/badge/Database_Management-87%25-lightgrey?style=for-the-badge&logo=mongodb)
+![API Development](https://img.shields.io/badge/API_Development-93%25-brightgreen?style=for-the-badge&logo=fastapi)
 
 </div>
 
+[Rest of the content remains the same]
 <!-- Enhanced Stats Section with New Design -->
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
