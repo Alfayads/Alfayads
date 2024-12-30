@@ -57,6 +57,13 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Alfayads&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="trophies" />
 </div>
 
+Frontend Development    ███████████████████░   95% 
+Backend Development    ████████████████████░   90%
+Database Management    ███████████████████░░   85%
+DevOps                 ██████████████████░░░   80%
+Cybersecurity          ███████████████░░░░░░   75%
+AI/ML                  ████████████░░░░░░░░░   60%
+
 ---
 
 ```js
@@ -64,7 +71,7 @@ const alfayad = {
     /* 🎭 Personal */
     name: "Alfayad",
     role: "Full Stack Developer & Security Expert",
-    location: "Your Location 🌍",
+    location: "Mullathward Thiruvampady po Alappuzha 🌍",
     available: "Open for exciting opportunities! 🚀",
     
     /* 🛠️ Tech Stack */
@@ -200,11 +207,11 @@ const alfayad = {
 <h2 align="center">🚀 Signature Projects</h2>
 
 <div align="center">
-    <a href="https://github.com/Alfayads/project1">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Alfayads&repo=project1&bg_color=0d1117&border_color=00b3ff&show_icons=true&icon_color=00b3ff&title_color=00b3ff&text_color=c9d1d9" />
+    <a href="https://github.com/Alfayads/Yadro">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Alfayads&repo=Yadro&bg_color=0d1117&border_color=00b3ff&show_icons=true&icon_color=00b3ff&title_color=00b3ff&text_color=c9d1d9" />
     </a>
-    <a href="https://github.com/Alfayads/project2">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Alfayads&repo=project2&bg_color=0d1117&border_color=00b3ff&show_icons=true&icon_color=00b3ff&title_color=00b3ff&text_color=c9d1d9" />
+    <a href="https://github.com/Alfayads/portfolio">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Alfayads&repo=portfolio&bg_color=0d1117&border_color=00b3ff&show_icons=true&icon_color=00b3ff&title_color=00b3ff&text_color=c9d1d9" />
     </a>
 </div>
 
