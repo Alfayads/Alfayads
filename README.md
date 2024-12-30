@@ -10,20 +10,20 @@
   > 🎯 "Crafting digital experiences that make a difference"
 
   <!-- Profile Views Counter -->
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
-  [![GitHub followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&logo=github)](https://github.com/yourusername?tab=followers)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Alfayads&color=blueviolet&style=for-the-badge)
+  [![GitHub followers](https://img.shields.io/github/followers/Alfayads?style=for-the-badge&logo=github)](https://github.com/Alfayads?tab=followers)
 </div>
 
 <!-- About Me Section with Custom Design -->
 <div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=yourusername&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WildCard"/>
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Alfayads&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WildCard"/>
 </div>
 
 ```js
 const alfayad = {
     /* 🧑‍💻 Professional Identity */
     title: "Full Stack Developer & Security Enthusiast",
-    location: "Your Location 🌍",
+    location: "Mullathward Thiruvampady po Alappuzha🌍",
     workingOn: "Building secure & scalable web applications",
     
     /* 💡 Technical Expertise */
@@ -83,22 +83,22 @@ const alfayad = {
 <!-- GitHub Stats with Advanced Layout -->
 <h2 align="center">📊 GitHub Journey</h2>
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Alfayads&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Alfayads&theme=tokyonight" />
 </div>
 
 <!-- Activity Graph -->
-<img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark" width="100%"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=Alfayads&theme=react-dark" width="100%"/>
 
 <!-- Projects Showcase -->
 <h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
   <a href="https://github.com/yourusername/project1">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Alfayads&repo=project1&theme=tokyonight" />
   </a>
   <a href="https://github.com/yourusername/project2">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Alfayads&repo=project2&theme=tokyonight" />
   </a>
 </div>
 
@@ -126,7 +126,7 @@ AI/ML                  ████████████░░░░░░░
 <!-- Connect Section with Fancy Styling -->
 <h2 align="center">🤝 Let's Connect</h2>
 <div align="center">
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/Alfayads">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/yourusername">
@@ -135,7 +135,7 @@ AI/ML                  ████████████░░░░░░░
   <a href="https://dev.to/yourusername">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:alfayadshameer056@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
