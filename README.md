@@ -5,8 +5,6 @@
 <!-- Custom Profile Header -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12&text=Hey%20I'm%20Alfayad%20👨‍💻&fontSize=70&desc=Full%20Stack%20Developer%20|%20DevOps%20Engineer%20|%20Security%20Expert&descSize=20&descAlignY=62&animation=fadeIn" />
 
-<!-- Dynamic Wave Separator -->
-<img src="https://raw.githubusercontent.com/mayhemanjalit/mayhemanjalit/output/snake.svg" alt="Snake animation" />
 
 <!-- Profile View Counter and Social Stats -->
 <div align="center">
@@ -29,10 +27,6 @@
   <img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in" />
 </div>
 
-<!-- Dynamic Trophy Display -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alfayads&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Github Trophy" />
-</p>
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
