@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HOLOGRAPHIC MATRIX ENTRANCE -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,3,4,12,14,20,25,30&height=400&section=header&text=ENTERING%20THE%20MATRIX&fontSize=50&fontColor=00ff41&animation=twinkling&fontAlignY=30&desc=%E2%96%B6%20ALFAYAD.EXECUTABLE%20%E2%97%80&descSize=18&descAlignY=55&descColor=ff0080" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,3,4,12,14,20,25,30&height=400&section=header&text=ENTERING%20THE%20MATRIX&fontSize=50&fontColor=00ff41&animation=twinkling&fontAlignY=30&desc=%E2%96%B6%20ALFAYAD%20%E2%97%80&descSize=18&descAlignY=55&descColor=ff0080" />
 
 <!-- NEURAL NETWORK LOADING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=18&duration=1500&pause=300&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%3E%20Initializing%20Neural%20Networks...;%3E%20Loading%20Full%20Stack%20Protocols...;%3E%20Activating%20Security%20Modules...;%3E%20Deploying%20Cloud%20Infrastructure...;%3E%20System%20Ready%20for%20Innovation..." />
@@ -140,9 +140,9 @@ GSAP             ████████████████░░░░░
 ### ⚙️ **BACKEND NUCLEUS**
 ```
 Node.js          ████████████████████░ 96%
-Python           ███████████████████░░ 93%
-Rust             ████████████████░░░░░ 78%
-Go               ██████████████░░░░░░░ 73%
+Python           ██████░░░░░░░░░░░░░░░ 33%
+Rust             ███░░░░░░░░░░░░░░░░░░ 28%
+Go               █░░░░░░░░░░░░░░░░░░░░ 13%
 GraphQL          ████████████████████░ 92%
 gRPC             ███████████████░░░░░░ 77%
 ```
