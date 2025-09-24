@@ -1,14 +1,16 @@
-# Hi there, I'm Alfayad S 👋
-
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Mobile+App+Developer;JavaScript+%7C+Python+Enthusiast;Flutter+%26+React+Native+Expert;Cybersecurity+Student;Always+Learning+New+Tech)
-  
-  <img src="https://komarev.com/ghpvc/?username=Alfayads&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hi%20there,%20I'm%20Alfayad%20S%20👋&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Crafting%20Digital%20Magic%20⚡%20One%20Line%20at%20a%20Time&descAlign=50&descAlignY=55"/>
 </div>
-
----
+<div align="center">
+Show Image
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Alfayads&label=Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Alfayads?label=Followers&style=for-the-badge&color=4CC9FE" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-FF6B6B?style=for-the-badge&logo=security&logoColor=white" alt="Current Focus" />
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
 ## 🚀 About Me
 
