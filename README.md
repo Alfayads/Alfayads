@@ -82,6 +82,21 @@ I'm a passionate **Full Stack Developer** who loves crafting seamless digital ex
 
 ---
 
+📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alfayads&theme=radical&hide_border=true&custom_title=Alfayad's%20Coding%20Journey&color=FF6B6B&bg_color=0D1117&point=4CC9FE&line=FF6B6B&area=true&area_color=FF6B6B" />
+</div>
+🎯 GitHub Contribution Stats
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alfayads&theme=radical" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alfayads&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alfayads&theme=radical" />
+</div>
+
+---
+
 ## 📈 Activity Graph
 
 <div align="center">
