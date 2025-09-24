@@ -92,8 +92,9 @@ I'm a passionate **Full Stack Developer** who loves crafting seamless digital ex
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alfayads&repo=awesome-project&theme=radical&hide_border=true)](https://github.com/Alfayads/awesome-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alfayads&repo=mobile-app-project&theme=radical&hide_border=true)](https://github.com/Alfayads/mobile-app-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alfayads&repo=code-editor&theme=radical&hide_border=true)](https://github.com/Alfayads/code-editor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alfayads&repo=fayad-ai&theme=radical&hide_border=true)](https://github.com/Alfayads/fayad-ai)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alfayads&repo=file-organizer&theme=radical&hide_border=true)](https://github.com/Alfayads/file-organizer)
 
 </div>
 
