@@ -1,108 +1,165 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Alfayad S 👋
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Mobile+App+Developer;JavaScript+%7C+Python+Enthusiast;Flutter+%26+React+Native+Expert;Cybersecurity+Student;Always+Learning+New+Tech)
+  
+  <img src="https://komarev.com/ghpvc/?username=Alfayads&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   
 </div>
+
+---
 
 ## 🚀 About Me
 
-I'm a passionate software developer who loves creating efficient, scalable solutions and exploring new technologies. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
+I'm a passionate **Full Stack Developer** who loves crafting seamless digital experiences across web and mobile platforms. With expertise spanning from frontend magic to backend wizardry, I turn ideas into reality through clean, efficient code.
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technology/Skill you're learning]**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, Python, Web Development**
-- 📫 How to reach me: **[your-email@example.com]**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 🔭 Currently building **innovative web and mobile applications**
+- 🌱 Diving deep into **Cybersecurity** to enhance my security-first development approach
+- 👨‍💻 Specializing in **JavaScript**, **Python**, **Flutter**, and **React Native**
+- 💡 Always exploring new technologies and development patterns
+- 🎯 Goal: Creating secure, scalable, and user-centric applications
+- 📫 Reach me at: **alfayadshameer056@gmail.com**
 
-## 🛠️ Tech Stack
+---
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+## 🛠️ Tech Arsenal
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+### 🌐 Frontend Development
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+### 🔧 Backend Development
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-## 📊 GitHub Stats
+### 🗄️ Databases & Cloud
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🔒 Security & Tools (Learning)
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-FF6B6B?style=for-the-badge&logo=security&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### 🛠️ Development Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alfayads&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfayads&layout=compact&theme=radical&hide_border=true"/>
 </div>
 
-## 🔥 Streak Stats
+---
+
+## 🔥 Contribution Streak
 
 <div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true)
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfayads&theme=radical&hide_border=true" />
 </div>
+
+---
 
 ## 📈 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alfayads&theme=redical&hide_border=true&custom_title=Alfayad's%20GitHub%20Activity%20Graph" />
+</div>
+
+---
 
 ## 🏆 Featured Projects
 
 <div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-name-1&theme=tokyonight&hide_border=true)](https://github.com/yourusername/project-name-1)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-name-2&theme=tokyonight&hide_border=true)](https://github.com/yourusername/project-name-2)
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alfayads&repo=awesome-project&theme=radical&hide_border=true)](https://github.com/Alfayads/awesome-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alfayads&repo=mobile-app-project&theme=radical&hide_border=true)](https://github.com/Alfayads/mobile-app-project)
 
 </div>
 
-## 🌐 Connect with Me
+---
+
+## 🎯 Current Focus
+
+```javascript
+const alfayad = {
+    code: ["JavaScript", "Python", "Dart", "TypeScript"],
+    technologies: {
+        frontEnd: ["React", "HTML5", "CSS3", "JavaScript"],
+        backEnd: ["Node.js", "Python", "Express", "Django"],
+        mobile: ["Flutter", "React Native"],
+        databases: ["MongoDB", "PostgreSQL", "MySQL"],
+        learning: ["Cybersecurity", "Ethical Hacking", "Penetration Testing"]
+    },
+    currentFocus: "Building secure applications while mastering cybersecurity",
+    askMeAbout: ["web dev", "mobile dev", "tech", "cybersecurity"],
+    funFact: "I debug with console.log() and I'm not ashamed!"
+};
+```
+
+---
+
+## 🌐 Let's Connect
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/-alfayadshameer056@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfayadshameer056@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Alfayads-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alfayads)
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alfayad-s)
 
 </div>
 
-## 💡 Random Dev Quote
+---
+
+## 💻 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   8 hrs 42 mins   ████████████░░░░░░░░░░░░░   48.32%
+Python       4 hrs 15 mins   ███████░░░░░░░░░░░░░░░░░░   28.67%
+Dart         2 hrs 30 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.45%
+CSS          1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   06.56%
+```
+<!--END_SECTION:waka-->
+
+---
+
+## 🎨 Random Dev Quote
 
 <div align="center">
   
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 </div>
 
 ---
 
 <div align="center">
   
-  **Thanks for visiting my profile! Have a great day! 😊**
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views)
-  
+**✨ "Code is like humor. When you have to explain it, it's bad." - Cory House ✨**
+
+Thanks for visiting! Let's build something amazing together! 🚀
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
 </div>
