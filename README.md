@@ -21,7 +21,7 @@ I'm a passionate **Full Stack Developer** who loves crafting seamless digital ex
 - 👨‍💻 Specializing in **JavaScript**, **Python**, **Flutter**, and **React Native**
 - 💡 Always exploring new technologies and development patterns
 - 🎯 Goal: Creating secure, scalable, and user-centric applications
-- 📫 Reach me at: **alfayadshameer056@gmail.com**
+- 📫 Reach me at: **https://alfayad.vercel.app**
 
 ---
 
