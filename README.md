@@ -74,14 +74,6 @@ I'm a passionate **Full Stack Developer** who loves crafting seamless digital ex
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfayads&theme=radical&hide_border=true" />
-</div>
-
----
-
 📈 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alfayads&theme=radical&hide_border=true&custom_title=Alfayad's%20Coding%20Journey&color=FF6B6B&bg_color=0D1117&point=4CC9FE&line=FF6B6B&area=true&area_color=FF6B6B" />
